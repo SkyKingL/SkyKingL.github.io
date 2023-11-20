@@ -167,10 +167,10 @@ post:
 # Based on GitHub Discussions, similar to Utterances
 # See: https://giscus.app/
 giscus:
-  repo: FredBill1/FredBill1.github.io
-  repo-id: R_kgDOKsKEdA
+  repo: SkyKingL/SkyKingL.github.io
+  repo-id: R_kgDOKvq40A
   category: General
-  category-id: DIC_kwDOKsKEdM4Ca4I6
+  category-id: DIC_kwDOKvq40M4CbF86
   theme: preferred_color_scheme
   mapping: pathname
   strict: 1
